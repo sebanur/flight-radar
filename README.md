@@ -1,17 +1,43 @@
-# React + Vite
+# ✈️ Flight Radar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Flight Radar** is a modern and responsive flight tracking web application built with React 19 and Redux Toolkit. It allows users to monitor real-time flight data, explore aircraft locations on an interactive map, and access detailed flight information through a user-friendly interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Project Overview
 
-## React Compiler
+This project was developed to improve practical skills in React, API integration, interactive map visualization, and global state management. It focuses on creating a dynamic and responsive flight tracking experience using modern frontend technologies.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### ✨ Key Features
 
-## Expanding the ESLint configuration
+- ✈️ Real-time flight tracking and aircraft information
+- 🗺️ Interactive map displaying aircraft locations
+- 📋 Flight list view with detailed flight information
+- 🔄 Dynamic flight data fetching through API integration
+- 📱 Modern and responsive user interface
+- ⚡ Efficient state management with Redux Toolkit
+- 🔍 Interactive flight exploration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# flight-radar
+---
+
+## 🛠️ Technologies Used
+
+- **React 19** – Component-based UI development
+- **Redux Toolkit & React Redux** – Global state management
+- **JavaScript (ES6+)** – Application logic and functionality
+- **Vite** – Fast development and optimized builds
+- **Tailwind CSS 4.0** – Modern and responsive styling
+- **Axios** – API integration and HTTP requests
+- **Lucide React** – Modern UI icons
+
+---
+
+## 🎯 Project Purpose
+
+The main goal of this project is to strengthen frontend development skills by integrating real-time flight data, asynchronous API operations, interactive map visualization, and Redux Toolkit state management into a modern React application.
+
+---
+
+## 🖥️ Project Preview
+
+![](flight-radar.gif)
